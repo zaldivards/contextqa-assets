@@ -1,1 +1,1 @@
-# git-test
+# Assets of ContextQA project
